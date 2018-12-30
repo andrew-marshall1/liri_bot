@@ -1,4 +1,5 @@
 LIRI-bot
+
 This is a CLI app for finding movie, concert or song information.
 
 Getting started
